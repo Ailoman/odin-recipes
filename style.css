@@ -1,0 +1,44 @@
+.left-body {
+    display: inline-block;
+    width: 25%;
+    background-color: aqua;
+    margin: 0 40;
+}
+
+.middle-body {
+    background-color: blue;
+    display: inline-block;
+    width: 50%;
+    margin: auto;
+}
+
+h1 {
+    color: white;
+}
+
+img {
+    height: 400px;
+    width: auto;
+}
+
+.title {
+    width: 200;
+    margin: 0 auto;
+    background-color: purple;
+    text-align: center;
+}
+
+.recipes {
+    width: auto;
+    margin: 0 auto;
+}
+
+#nice-button {
+    padding: 10px;
+    margin: 10 auto;
+}
+
+.food-image {
+    width: auto;
+    height: auto;
+}
